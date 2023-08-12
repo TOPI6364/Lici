@@ -35,7 +35,7 @@ async def sort(ctx, item):
     else:
         await ctx.send('пока неизвестно, что делать с этим предметом')
 
-bot.run("MTEzMjI3ODA3NDI4MTU3NDQxMg.Gu7Bkl.gTAoK2E8qXzCve0cBp5SDmzUiHL8jRsQ7i37pg")
+bot.run("дискорд не следи за мной")
 
 
     
